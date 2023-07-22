@@ -108,6 +108,7 @@ nav ul li a {
 }
 .team-content {
   margin: 0px 0px 0px 70px;
+  text-transform: capitalize;
 }
 .team-title {
   font-size: 2.7rem;
