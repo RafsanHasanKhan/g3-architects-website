@@ -44,9 +44,13 @@
   }
     .teams {
     flex-direction: column;
+    align-items: normal;
   }
   .team-images {
     margin-left: 0px;
     padding: 50px 0px 50px 0px;
+  }
+  .team-content {
+    margin: 0px;
   }
 }
