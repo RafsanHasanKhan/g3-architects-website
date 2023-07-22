@@ -32,6 +32,9 @@
   .team-content {
     margin: 0px;
   }
+  .team-title .two {
+    display: block;
+  }
 }
 /* Tablet or Medium devices */
 @media screen and (min-width: 577px) and (max-width: 960px) {
