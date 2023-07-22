@@ -1,0 +1,17 @@
+/* Mobile Devices */
+@media screen and (max-width: 576px) {
+  header,
+  .banner {
+    padding: 20px;
+  }
+  nav, nav ul {
+    flex-direction: column;
+  }
+}
+/* Tablet or Medium devices */
+@media screen and (min-width: 577px) and (max-width: 960px) {
+  header,
+  .banner {
+    padding: 50px;
+  }
+}
