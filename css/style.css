@@ -123,6 +123,7 @@ nav ul li a {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  display: inline-block;
 }
 .team-title .three {
   display: block;
