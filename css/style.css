@@ -108,7 +108,6 @@ nav ul li a {
 }
 .team-content {
   margin: 0px 0px 0px 70px;
-  text-transform: capitalize;
 }
 .team-title {
   font-size: 2.7rem;
@@ -124,6 +123,7 @@ nav ul li a {
   font-style: normal;
   font-weight: 700;
   line-height: normal;
+  display: inline-block;
 }
 .team-title .three {
   display: block;
