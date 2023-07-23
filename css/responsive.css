@@ -3,9 +3,8 @@
   .container {
     max-width: 90%;
   }
-  nav{
+  nav {
     flex-direction: column;
-    
   }
   nav ul {
     margin-top: 50px;
@@ -42,13 +41,16 @@
   .container {
     max-width: 90%;
   }
-    .teams {
+  .teams {
     flex-direction: column;
     align-items: normal;
   }
   .team-images {
     margin-left: 0px;
     padding: 50px 0px 50px 0px;
+  }
+  .team-images img {
+    width: 100%;
   }
   .team-content {
     margin: 0px;
