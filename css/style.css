@@ -99,7 +99,6 @@ nav ul li a {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  max-width: 1200px;
   margin: 0 auto;
 }
 .team-images {
@@ -137,10 +136,54 @@ nav ul li a {
 }
 .team-desc {
   margin: 24px 0px 32px 0px;
-  color:  #727272;
+  color: #727272;
   font-size: 1rem;
   font-style: normal;
   font-weight: 400;
   line-height: 26px; /* 162.5% */
 }
 /* Teams Style Area End Here */
+/* Facts Style Area Start Here */
+.section-title h4 {
+  color: #131313;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.section-title p {
+  color: #727272;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px; /* 162.5% */
+  max-width: 542px;
+  margin: 24px 0px 100px 0px;
+}
+.facts-card-container {
+  display: flex;
+  justify-content: space-around;
+  margin-botto: 180px;
+}
+.card {
+  padding: 45px 35px 60px;
+  border-radius: 8px;
+  border: 1px solid #ff900e;
+  text-align: center;
+}
+.card-stats {
+  color: #424242;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  margin-top: 10px;
+}
+.card-title {
+  color: #727272;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+/* Facts Style Area End Here */

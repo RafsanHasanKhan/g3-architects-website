@@ -31,10 +31,23 @@
   .team-content {
     margin: 0px;
     text-align: center;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
   }
   .team-title .two {
     display: block;
+  }
+  .facts-card-container {
+    flex-direction: column;
+  }
+  .card {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+  .section-title p,
+  .section-title h4 {
+    margin-bottom: 50px;
+    text-align: center;
   }
 }
 /* Tablet or Medium devices */
@@ -56,5 +69,11 @@
   .team-content {
     margin: 0px;
     padding-bottom: 20px;
+  }
+  .facts-card-container  {
+    flex-direction: column;
+  }
+  .card {
+    margin-bottom: 30px;
   }
 }
