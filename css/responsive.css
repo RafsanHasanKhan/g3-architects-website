@@ -49,6 +49,12 @@
     margin-bottom: 50px;
     text-align: center;
   }
+  .sponsors-image-container {
+    flex-direction: column;
+  }
+  .sponsors-image-container img {
+    width: 165px;
+  }
 }
 /* Tablet or Medium devices */
 @media screen and (min-width: 577px) and (max-width: 960px) {
@@ -75,5 +81,11 @@
   }
   .card {
     margin-bottom: 30px;
+  }
+  .sponsors-image-container {
+    flex-direction: column;
+  }
+  .sponsors-image-container img {
+    width: 165px;
   }
 }
