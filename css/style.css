@@ -78,6 +78,9 @@ nav ul li a {
   font-weight: 700;
   line-height: normal;
 }
+.banner-title span {
+  display: block;
+}
 .banner-desc {
   color: #727272;
   font-size: 1rem;
