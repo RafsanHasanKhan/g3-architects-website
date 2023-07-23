@@ -31,6 +31,7 @@
   .team-content {
     margin: 0px;
     text-align: center;
+    padding-bottom: 20px;
   }
   .team-title .two {
     display: block;
@@ -54,5 +55,6 @@
   }
   .team-content {
     margin: 0px;
+    padding-bottom: 20px;
   }
 }
